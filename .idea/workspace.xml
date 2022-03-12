@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b88c2f-7b9a-416d-9f6d-ce6c7f9738e0" name="Default Changelist" comment="" />
+    <list default="true" id="99b88c2f-7b9a-416d-9f6d-ce6c7f9738e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,5 +49,26 @@
       <updated>1647080303794</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="290" y="238" key="#PSD" timestamp="1647080373799">
+      <screen x="0" y="25" width="1920" height="965" />
+    </state>
+    <state x="290" y="238" key="#PSD/0.25.1920.965@0.25.1920.965" timestamp="1647080373799" />
+    <state x="365" y="239" key="Vcs.Push.Dialog.v2" timestamp="1647081242951">
+      <screen x="0" y="25" width="1920" height="965" />
+    </state>
+    <state x="365" y="239" key="Vcs.Push.Dialog.v2/0.25.1920.965@0.25.1920.965" timestamp="1647081242951" />
   </component>
 </project>
